@@ -1,0 +1,22 @@
+
+body{
+    text-align: center ;
+    background-image: linear-gradient( to bottom, #dac3a5,#4b3b3b) ;
+    background-attachment: fixed;
+
+}
+
+h1 {
+font-size: 90px;
+color: rgb(119, 101, 101);
+}
+
+h2{
+    font-size: 70px;
+}
+
+div{
+text-align: left;
+font-size: 30px;
+color:rgb(230, 213, 213)
+}
